@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "iostream": "cpp"
+    },
+    "gtest-adapter.debugConfig": "(gdb) Launch"
+}
