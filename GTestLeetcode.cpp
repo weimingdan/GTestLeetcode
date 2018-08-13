@@ -26,6 +26,7 @@ class CrawlerA
 	bool isEnd;
 };
 
+
 TEST(CrawlerTest, test1)
 {
 	CrawlerA s;
