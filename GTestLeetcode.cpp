@@ -24,6 +24,7 @@ class CrawlerA
 
   private:
 	bool isEnd;
+	int  id;
 };
 
 
